@@ -1,10 +1,20 @@
-# Desempenho-Threads N: M e 1:1
+# Desempenho Threads N: M e 1:1
 Atividade prática de Performance em Sistemas Ciberfísicos sobre Desempenho entre modelos de threads N:M e 1:1
 
 
-Tabela comparativa de tempos:
+**Tabela comparativa de tempos:**
 
 <img width="634" height="162" alt="image" src="https://github.com/user-attachments/assets/87922b8d-ad3a-4268-959c-62ce36645485" />
+
+
+**Gráfico comparativo:**
+
+série 2 = Thread N:M
+
+série 3 = Trhead 1:1
+
+<img width="634" height="464" alt="image" src="https://github.com/user-attachments/assets/43884b35-0310-42f9-a14b-ad9e55ffa1ec" />
+
 
 
 
